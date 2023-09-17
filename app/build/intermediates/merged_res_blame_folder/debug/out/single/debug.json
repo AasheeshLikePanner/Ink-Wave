@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/layout_activity_brush_dailog.xml.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/layout/activity_brush_dailog.xml"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/xml_path.xml.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/xml/path.xml"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/layout_activity_progress_bar.xml.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/layout/activity_progress_bar.xml"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/drawable_canvas_border.xml.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/drawable/canvas_border.xml"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/drawable_art.jpg.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/drawable/art.jpg"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kidsdrawing.app-merged_res-35:/xml_path.xml.flat",
+        "source": "com.example.kidsdrawing.app-main-37:/xml/path.xml"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "/home/aasheesh/.gradle/daemon/8.0/com.example.kidsdrawing.app-main-37:/layout/activity_main.xml"
+    }
+]

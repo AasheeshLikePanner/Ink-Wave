@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable art
+drawable canvas_border
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id BackgroundImage
+id Brush_Size_Done
+id Bursh_Size_Button
+id ColorChangerbut
+id ImageImportingButton
+id SaveButton
+id UndoButton
+id drawingView
+id framelayout
+id slider
+layout activity_brush_dailog
+layout activity_main
+layout activity_progress_bar
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.KidsDrawing
+style Theme.KidsDrawing
+xml backup_rules
+xml data_extraction_rules
+xml path
