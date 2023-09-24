@@ -1,6 +1,6 @@
 # Ink-Wave
 # Some-one Need to Make This 🥱
-                                          A Drawing App Which Have Rich features 😳
+                                      A Drawing App Which Have Rich features 😳
 
 Drawing apps are like a magical portal to a world where your imagination runs wild and your creativity knows no bounds. One of the most delightful features of these apps is the ability to paint the town (or your digital canvas) with any color you can dream up.
 
@@ -10,7 +10,7 @@ But the real fun? It's in the unexpected. Drawing apps let you unleash your inne
 
 So, whether you're a professional artist or just doodling for the sheer joy of it, drawing apps offer a hilarious palette of endless possibilities. Grab your digital brush, select a color (or ten), and let the laughter begin!
 
-                You can change the color and size of Brush 🤯. Even You can Import Images and save your drawing 💀
+             You can change the color and size of Brush 🤯. Even You can Import Images and save your drawing 💀
 
 Changing Brush Color and Size 🎨: It's like having a magic wand, but instead of turning frogs into princes, you're turning blank canvases into vibrant masterpieces! Want a brush the size of a skyscraper to paint that enormous sun? Or a brush finer than a cat's whisker for those delicate details? With a drawing app, you're the Picasso of brush sizes and colors. Just don't accidentally turn your canvas into a pumpkin!
 
@@ -20,7 +20,7 @@ Saving Your Drawing 🖼️: Remember the days when your art would smudge, wrink
 
 In the world of drawing apps, you're not just an artist; you're a digital wizard with a paintbrush for a wand, turning the mundane into the absurd, and your art is safer than a vault full of gold bars. It's a world where creativity meets comedy, and your imagination is the star of the show! 🎩✨😂
 
-                                            Here is the proof of this app 🥱💪
+                                        Here is the proof of this app 🥱💪
                                 
 https://github.com/AasheeshLikePanner/Ink-Wave/assets/126905285/20dee520-55a3-42af-8aa9-d183a7f1db58
 
