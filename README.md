@@ -27,5 +27,10 @@ https://github.com/AasheeshLikePanner/Ink-Wave/assets/126905285/20dee520-55a3-42
 
 # Feeling Proud Myself
 
+                                                    How to Insatll and use it 🤣
+
+First you need to fork the project or import the project by android studio. And wait while project importing You can drink Frooti (A Mango drink!!!). After Importing You just create on build and do fun stuff it but don't be more creative. 
+Also You can use any Button It saves screen shot you image. And Import the custom Image to make Canvas cool 😏. 
+
 
 
